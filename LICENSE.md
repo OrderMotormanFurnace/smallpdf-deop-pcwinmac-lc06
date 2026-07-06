@@ -1,4 +1,4 @@
-# 
+# Instantáneo Smallpdf Desktop scripts para Mac OS | Oficial Smallpdf Desktop scripts para PC Windows. Con cifrado de PDF y acceso sin conexión — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
